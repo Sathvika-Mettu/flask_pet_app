@@ -1,0 +1,7 @@
+venv/
+__psycache__/
+*.pyc 
+*.pyo 
+*.pyd 
+.DS_Store
+instance/
